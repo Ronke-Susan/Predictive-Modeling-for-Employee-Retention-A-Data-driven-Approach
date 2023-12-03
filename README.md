@@ -66,4 +66,4 @@ Logistic regression model assumptions were confirmed before using the model. The
 * there was no severe multicollinearity among X variables
 * No extreme outlier (outliers were removed)
   
-The best performing model was chosen based on f1 score. The Decision Tree Model
+The best performing model was chosen based on the AUC score. The Decision Tree Model
