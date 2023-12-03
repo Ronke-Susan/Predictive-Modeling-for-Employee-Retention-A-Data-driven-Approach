@@ -56,7 +56,7 @@ The following insights were gathered during exploration:
 **Model Building and Evaluation**
 The models used to predict the target variable 'left' were logistic regression model and Decision Trees Model
 
-The evaluation metrics used for both models are accuracy score, precision, f1 score, recall. A confusion matrix was plotted to see how both models performed in predicting true positives, true negatives, false positives and false negatives.
+The evaluation metrics used for both models are accuracy score, precision, f1 score, recall. A confusion matrix was plotted to see how both models performed in predicting true positives, true negatives, false positives and false negatives. The AUC score was used to evaluate the decision tree model
 
 Cross validation was performed on decision tree model using GridSearchCV to find the best parameters that were later used to tune the model.
 
