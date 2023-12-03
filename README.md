@@ -46,7 +46,7 @@ The following insights were gathered during exploration:
 
 1. Approximately 17% of Salifort Motors employee left the company
 2. Employees who were assigned 7 projects left the company
-3. The maximum number of projects assigned to employees seems to be 3-4. The ration of employees within this project group that left to the ones that stayed is very small
+3. The maximum number of projects assigned to employees seems to be 3-4. The ratio of employees within this project group that left to the ones that stayed is very small
 4. Categories of employees who left include:
 * Dissatisfied employees with shorter tenures and very satisfied employees with medium length-tenures.
 5. The longest-tenured employees didn't leave. Their satisfaction levels aligned with those of newer employees who stayed.
