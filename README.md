@@ -4,7 +4,7 @@
 
 **Dataset Information**:
 
-*Source* : [Kaggle]('https://www.kaggle.com/datasets/mfaisalqureshi/hr-analytics-and-job-prediction/')
+*Source* : [Kaggle](https://www.kaggle.com/datasets/mfaisalqureshi/hr-analytics-and-job-prediction/)
 
 *Shape*: The dataset contains 14,999 rows of data and 10 columns
 
